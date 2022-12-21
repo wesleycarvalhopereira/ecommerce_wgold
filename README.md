@@ -9,3 +9,4 @@ Checktou, Tela de produto, Catálogo, Home com banner
 
 - Melhoria 1
 - Melhoria 2
+- Melhoria 3
