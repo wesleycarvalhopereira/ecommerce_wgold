@@ -3,10 +3,11 @@ Este é um **e-commerce** da Empresa Wgold feita como projeto do curso de GitGit
 
 ## Funcionalidade:
 
-Checktou, Tela de produto, Catálogo, Home com banner
+_Checktou, **Tela de produto**, Catálogo, Home com banner_
+**Checktou, _**Tela de produto**_, Catálogo, Home com banner**
 
 ###### Melhorias do projeto:
 
-- Melhoria 1
-- Melhoria 2
-- Melhoria 3
+- __Melhoria 1__
+- _Melhoria 2_
+- *Melhoria 3*
