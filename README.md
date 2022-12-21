@@ -1,4 +1,8 @@
 # Ecommerce Wgold
-Este é um e-commerce da Empresa Wgold feita em PHP e MySQL
+Este é um e-commerce da Empresa Wgold feita como projeto do curso de GitGithub do Matheus Battisti
 
-# Teste
+## Funcionalidade:
+
+Checktou, Tela de produto, Catálogo, Home com banner
+
+
