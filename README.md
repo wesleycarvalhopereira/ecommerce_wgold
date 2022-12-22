@@ -37,9 +37,10 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 ### Links interessantes
 
-![Google](https://www.google.com)
+![https://www.logotipo.pt/wp-content/uploads/2015/09/googs-new.jpg](https://www.google.com)
 
 ![https://horadecodar.com.br/](https://horadecodar.com.br/)
+
 ###### Melhorias do projeto:
 
 - **Melhoria 1**
