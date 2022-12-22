@@ -47,11 +47,11 @@ Contribuidor Principal: https://github.com/matheusbattisti
 
 ## Código da função soma
 
-```React
+```Javascript
     function soma (a, b){
         return a + b;
     }
-``` 
+```
 
 ###### Melhorias do projeto:
 
