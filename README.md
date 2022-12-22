@@ -33,7 +33,7 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 #### Imagem externa
 
-![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png) ![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png)
 
 ###### Melhorias do projeto:
 
