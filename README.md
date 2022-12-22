@@ -43,7 +43,7 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 ## Contribuidor Principal
 
-    ![Logo do PHP](https://github.com/matheusbattisti)
+![Logo do PHP](https://github.com/matheusbattisti)
 
 ###### Melhorias do projeto:
 
