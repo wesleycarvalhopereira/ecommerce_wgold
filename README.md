@@ -35,6 +35,11 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 ![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png) ![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png)
 
+### Links interessantes
+
+![Google](https://www.google.com)
+
+![https://horadecodar.com.br/](https://horadecodar.com.br/)
 ###### Melhorias do projeto:
 
 - **Melhoria 1**
