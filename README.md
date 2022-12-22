@@ -30,6 +30,11 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 #### Imagem local
 
 ![Tatuagem](img/3.jpg)
+
+#### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
 ###### Melhorias do projeto:
 
 - **Melhoria 1**
