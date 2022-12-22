@@ -41,6 +41,10 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 [https://horadecodar.com.br/](https://horadecodar.com.br/)
 
+## Contribuidor Principal
+
+    ![Logo do PHP](https://github.com/matheusbattisti)
+
 ###### Melhorias do projeto:
 
 - **Melhoria 1**
