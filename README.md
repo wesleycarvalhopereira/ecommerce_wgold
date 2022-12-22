@@ -45,6 +45,14 @@ Contribuidor Principal: https://github.com/matheusbattisti
 
 [![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png)](https://github.com/matheusbattisti)
 
+## Código da função soma
+
+```Javascript
+    function soma (a, b){
+        return a + b;
+    }
+``` 
+
 ###### Melhorias do projeto:
 
 - **Melhoria 1**
