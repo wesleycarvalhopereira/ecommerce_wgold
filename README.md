@@ -8,7 +8,7 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 **Checktou, \_**Tela de produto**\_, Catálogo, Home com banner**
 
-### Linguagens do projeto:
+## Linguagens do projeto:
 
 - HTML
 - CSS
@@ -16,7 +16,7 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 - PHP
 - MYSQL
 
-### Funcionalidades a desenvolver:
+## Funcionalidades a desenvolver:
 
 1. Área de membros
    1. Login diferente para grupo de clientes.
@@ -27,6 +27,8 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 2. Integração com pagamentos
 3. Sistema de bônus de primeira compra
 
+## Imagens Gerais
+
 #### Imagem local
 
 ![Tatuagem](img/3.jpg)
@@ -35,7 +37,7 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 
 ![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png) ![Logo do PHP](https://1.bp.blogspot.com/-V42E2GHNjrc/UmRtnvOCkkI/AAAAAAAAAoc/l044a1LwcC4/s1600/PHP-logo.png)
 
-### Links interessantes
+## Links interessantes
 
 [Google](https://www.google.com)
 
@@ -52,8 +54,14 @@ Contribuidor Principal: https://github.com/matheusbattisti
         return a + b;
     }
 ```
+## Lista de Tarefas a fazer:
 
-###### Melhorias do projeto:
+- [x] Área de membros;
+- [ ] Integração com outros pagamentos;
+- [ ] Sistema de bônus;
+- [x] CSS do rodapé.
+
+##### Melhorias do projeto:
 
 - **Melhoria 1**
 - _Melhoria 2_
