@@ -27,6 +27,9 @@ _Checktou, **Tela de produto**, Catálogo, Home com banner_
 2. Integração com pagamentos
 3. Sistema de bônus de primeira compra
 
+#### Imagem local
+
+![Tatuagem](img/3.jpg)
 ###### Melhorias do projeto:
 
 - **Melhoria 1**
